@@ -1,0 +1,58 @@
+body {
+  display: flex; /* Use flexbox to create a flexible layout */
+  justify-content: center; /* Horizontally center the content */
+  align-items: center; /* Vertically center the content */
+  height: 100vh; /* Set the body height to 100% of the viewport height */
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+  font-family: Arial, sans-serif; /* Set the font family for the body text */
+  background-color: #f5f5f5; /* Set the background color of the body */
+}
+
+.login-container {
+  background-color: #fff; /* Set the background color of the login container */
+  border-radius: 5px; /* Apply rounded corners to the login container */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Apply a box shadow to the login container */
+  padding: 5vw; /* Set the padding of the login container to 5% of the viewport width */
+  text-align: center; /* Center the content within the login container */
+  max-width: 400px; /* Set the maximum width of the login container */
+  width: 90%; /* Set the width of the login container to 90% of its parent container */
+}
+
+h1 {
+  margin-bottom: 20px; /* Add a bottom margin to the heading */
+}
+
+.form-group {
+  margin-bottom: 20px; /* Add a bottom margin to the form group */
+  display: flex; /* Use flexbox to create a flexible layout for the form group */
+  flex-direction: column; /* Stack the elements vertically within the form group */
+  align-items: center; /* Center the elements horizontally within the form group */
+}
+
+label {
+  display: block; /* Display the labels as blocks */
+  font-weight: bold; /* Set the font weight of the labels to bold */
+  margin-bottom: 5px; /* Add a bottom margin to the labels */
+}
+
+input {
+  width: 100%; /* Set the width of the inputs to 100% of their parent container */
+  padding: 8px; /* Set the padding of the inputs */
+  border-radius: 5px; /* Apply rounded corners to the inputs */
+  border: 1px solid #ccc; /* Set a border for the inputs */
+}
+
+button {
+  padding: 8px 16px; /* Set the padding of the button */
+  border-radius: 5px; /* Apply rounded corners to the button */
+  border: none; /* Remove the border of the button */
+  background-color: #4caf50; /* Set the background color of the button */
+  color: #fff; /* Set the text color of the button */
+  font-weight: bold; /* Set the font weight of the button text to bold */
+  cursor: pointer; /* Change the cursor to a pointer when hovering over the button */
+}
+
+button:hover {
+  background-color: #45a049; /* Change the background color of the button on hover */
+}
