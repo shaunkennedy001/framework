@@ -46,18 +46,13 @@ git push origin <branch-name>
 
 ## Contribution Guidelines
 
-If you'd like to contribute to this project beyond the scope of the CSS
-framework integration, you're welcome to do so! Follow these guidelines to make
-your contribution:
+Follow these guidelines to make your contribution:
 
 1. Fork the repository and create a new branch for your contribution.
 2. Make your changes or additions to the project.
 3. Commit and push your changes to your forked repository.
 4. Open a pull request to the original repository, describing the purpose and
    scope of your contribution.
-
-Please ensure that your contributions align with the project's goals and follow
-best practices.
 
 ## Resources
 
