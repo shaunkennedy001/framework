@@ -44,16 +44,6 @@ git push origin <branch-name>
 8. Open a pull request from your branch to the original repository. Provide a
    descriptive title and a clear description of the changes you made.
 
-## Contribution Guidelines
-
-Follow these guidelines to make your contribution:
-
-1. Fork the repository and create a new branch for your contribution.
-2. Make your changes or additions to the project.
-3. Commit and push your changes to your forked repository.
-4. Open a pull request to the original repository, describing the purpose and
-   scope of your contribution.
-
 ## Resources
 
 Here are some resources to help you get started with CSS frameworks:
